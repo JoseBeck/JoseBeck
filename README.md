@@ -1,6 +1,6 @@
 # 😎 José Augusto Beckenkamp
 
-**`Desenvolvedor Iniciante`**
+**`Estudante de Ciência da Computação`**
 
 Me chamo José Augusto Beckenkamp, tenho 19 anos e sou natural de Santa Catarina. Concluí o ensino médio na escola Sesi. Atualmente, estou cursando Ciência da Computação na UFFS.
 
